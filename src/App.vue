@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Creepy Hallway" src="./assets/universityHeightsHallway01.jpg" 
+     width="50" 
+     height="100">
+  <HelloWorld msg="Vue hosted on Vercel test app"/>
 </template>
 
 <script>
